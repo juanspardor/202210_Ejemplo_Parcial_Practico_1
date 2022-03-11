@@ -1,1 +1,2 @@
---SQL file
+INSERT INTO MEDICO_ENTITY (id, nombre, apellido, registroMedico, especialidad) values (1, 'Juan Jose', 'Rodríguez Ortiz', 'FC3578K', 'Anestesiología')
+INSERT INTO MEDICO_ENTITY (id, nombre, apellido, registroMedico, especialidad) values (2, 'Maria Paula', 'Sarmiento Mancipe', 'DE7825', 'Medicina Interna')
